@@ -1,4 +1,11 @@
-# Tailwind CSS example
+## Overview
+This repo is for a redesign of bryanmierke.com using Next/React/TailwindCSS
+
+## Technology
+Coming Soon ...
+
+### This site was bootstrapped with create-next-app
+### Tailwind CSS example
 
 This is an example of using [Tailwind CSS](https://tailwindcss.com) in a Next.js project.
 
