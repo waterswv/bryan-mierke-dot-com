@@ -5,7 +5,9 @@
 /* purgecss end ignore */
 @tailwind components;
 @tailwind utilities;
-
+body {
+  font-size: 16px;
+}
 .hero {
   width: 100%;
   color: #333;
